@@ -17,7 +17,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:3li_mo7sn@gmail.com)
-[![Codeforces](https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1)](https://codeforces.com/profile/3li_mo7sn)
+[![Codeforces](<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">)](https://codeforces.com/profile/3li_mo7sn)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/3li_mo7sn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
 
