@@ -159,6 +159,6 @@ languages: C++ | C# | Python
 
 <div align="center">
 
-⭐ Star my repositories if you find them useful ⭐
+<img src="https://raw.githubusercontent.com/3li-mo7sen/3li-mo7sen/output/github-contribution-grid-snake.svg">
 
 </div>
