@@ -129,21 +129,7 @@ languages: C++ | C# | Python
 
 ## 🔗 My Social Accounts
 
-<p align="center">
-
-<a href="mailto:3li_mo7sn@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-</a>
-
-<a href="https://github.com/3li-mo7sen">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-</a>
-
-</p>
+<img src="https://raw.githubusercontent.com/3li-mo7sen/3li-mo7sen/output/github-contribution-grid-snake.svg">
 
 <!-- ════════════════════════════ PROFILE VIEWS ════════════════════════════ -->
 
