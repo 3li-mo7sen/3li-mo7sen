@@ -122,7 +122,8 @@ languages: C++ | C# | Python
 <!-- ════════════════════════════ SNAKE CONTRIBUTION ════════════════════════════ -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/3li-mo7sen/3li-mo7sen/output/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/3li-mo7sen/3li-mo7sen/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- ════════════════════════════ SOCIAL ICONS ROW ════════════════════════════ -->
