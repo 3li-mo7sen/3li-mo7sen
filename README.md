@@ -4,7 +4,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=ffffff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65"/>
 
 <!-- ════════════════════════════ ANIMATED TYPING HEADER ════════════════════════════ -->
 
