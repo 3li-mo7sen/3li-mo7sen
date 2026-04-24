@@ -98,21 +98,6 @@ HTML5 | CSS3 | Bootstrap | JavaScript
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=3li_mo7sn&theme=github_dark&show_icons=true" />
 </div>
 
-<!-- ════════════════════════════ VISITOR COUNT ════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/gcm9LXmjgpzOw/giphy.gif" width="30"> **Profile Views**
-
-<img src="https://komarev.com/ghpvc/?username=3li_mo7sn&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
-
-<br><br>
-
-### 💻 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 <!-- ════════════════════════════ FOOTER ════════════════════════════ -->
 
@@ -120,7 +105,7 @@ HTML5 | CSS3 | Bootstrap | JavaScript
 
 <div align="center">
 
-**⭐ Star my repositories if you find them helpful! ⭐**
+**⭐ Don't Forget Flollow me ⭐**
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
 
@@ -128,6 +113,6 @@ HTML5 | CSS3 | Bootstrap | JavaScript
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<!--                                     Made with ❤️ by Ali Mohsen                              -->
+<!--                                     Made by Ali Mohsen                              -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
