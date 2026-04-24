@@ -4,13 +4,13 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20.NET%20Developer&descSize=20&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65"/>
 
 <!-- ════════════════════════════ ANIMATED TYPING HEADER ════════════════════════════ -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1000&pause=1000&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%8C%80+Welcome+to+my+portfolio;Software+Engineer+%7C+.NET+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1000&pause=1000&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100+Welcome+to+my+portfolio;Software+Engineer+%7C+.NET+Developer" alt="Typing SVG" />
   </a>
 </p>
 
