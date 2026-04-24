@@ -42,7 +42,7 @@
 name: Ali Mohsen
 located_in: Giza, Egypt
 role: Software Engineer | .NET Developer
-current_focus: Backend Development & Competitive Programming
+current_focus: Backend Development & Competitive Programming & Cloud Computing
 education: Luxor University (2023 - 2027)
 ```
 
@@ -92,18 +92,10 @@ HTML5 | CSS3 | Bootstrap | JavaScript
 
 <!-- ════════════════════════════ COMPETITIVE PROGRAMMING ════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Competitive Programming**
+## Competitive Programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=3li_mo7sn&theme=github_dark&disable_animations=false&show_icons=true" alt="Codeforces Stats"/>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=3li_mo7sn&theme=github_dark&show_icons=true" />
 </div>
 
 <!-- ════════════════════════════ VISITOR COUNT ════════════════════════════ -->
