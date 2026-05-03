@@ -88,21 +88,18 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 ## GitHub Analytics
 
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
+<!-- Profile Details - full width -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3li-mo7sen&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3li-mo7sen&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
-
-</div>
+<!-- Two language cards - same size side by side -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
 
 </div>
 
