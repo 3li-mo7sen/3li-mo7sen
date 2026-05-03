@@ -9,46 +9,52 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1200&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub;Software+Engineer+%7C+.NET+Developer;Competitive+Programmer;Backend+Architecture+Enthusiast" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1200&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub;Software+Engineer+%7C+.NET+Developer" 
       alt="Typing SVG" 
     />
   </a>
 </p>
-<br><br>
+
+
 <!-- ═════════════════════ SOCIAL ICONS (COLORFUL & SPACED) ═════════════════════════ -->
 
 <div align="center">
 
-### 🌐 Connect & Collaborate
+###  Connect & Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/ali-mohsen-357443405">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-icon-svg-download-png-189774.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/3li_mo7sn">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-x-logo-icon-svg-download-png-9823103.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/201124427672">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-icon-svg-download-png-493160.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/3li_mo7sn">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/ali.mohsen.shair">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-logo-icon-svg-download-png-1350125.png" width="45" style="margin: 0 10px;"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/3lii">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/3li_mo7sn">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-3030025.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-3030100.png" width="45" style="margin: 0 10px;"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://kaggle.com/alimohsenmahmoud">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-logo-icon-svg-download-png-3030009.png" width="45" style="margin: 0 10px;"/>
   </a>
