@@ -120,7 +120,7 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
 
 ###  Tools & DevOps
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark" width="45" hight="45" />
 
 ###  Frontend Basics
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark"/>
