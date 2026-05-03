@@ -88,6 +88,7 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 ## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="28"> GitHub Analytics
 
+
 <div align="center">
 
 <!-- Stats Card -->
@@ -98,12 +99,6 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 <!-- Streak Stats - different service entirely -->
 <img src="https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
