@@ -26,40 +26,35 @@
 
 <p>
   <a href="https://twitter.com/3li_mo7sn">
-    <img src="https://cdn.simpleicons.org/twitter" height="30" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-
+  
   <a href="https://linkedin.com/in/ali-mohsen-357443405">
-    <img src="https://cdn.simpleicons.org/linkedin" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-
-  <a href="https://kaggle.com/alimohsenmahmoud">
-    <img src="https://cdn.simpleicons.org/kaggle" height="30" />
-  </a>
-
+  
   <a href="https://fb.com/ali.mohsen.shair">
-    <img src="https://cdn.simpleicons.org/facebook" height="30" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
   </a>
-
+  
   <a href="https://instagram.com/3li_mo7sn">
-    <img src="https://cdn.simpleicons.org/instagram" height="30" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-
-  <a href="https://www.codechef.com/users/ali_mohsen">
-    <img src="https://cdn.simpleicons.org/codechef" height="30" />
-  </a>
-
+  
   <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1">
-    <img src="https://cdn.simpleicons.org/hackerrank" height="30" />
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
   </a>
+<a href="https://codeforces.com/profile/3lii">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="40" />
+</a>
 
-  <a href="https://codeforces.com/profile/3lii">
-    <img src="https://cdn.simpleicons.org/codeforces" height="30" />
-  </a>
+<a href="https://www.leetcode.com/3li_mo7sn">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
+</a>
 
-  <a href="https://www.leetcode.com/3li_mo7sn">
-    <img src="https://cdn.simpleicons.org/leetcode" height="30" />
-  </a>
+<a href="https://kaggle.com/alimohsenmahmoud">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40" />
+</a>
 </p>
 
 </div>
