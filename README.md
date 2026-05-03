@@ -24,37 +24,40 @@
 
 <h3>Connect with me:</h3>
 
-<p>
+<p style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  
   <a href="https://x.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-x-logo-icon-svg-download-png-9823103.png?f=webp&w=256" height="40" />
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/x-icon-svg-download-png-7941270.png?f=webp&w=256" height="40" />
   </a>
-  
+
   <a href="https://linkedin.com/in/ali-mohsen-357443405">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-icon-svg-download-png-189774.png?f=webp&w=256" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-icon-svg-download-png-189774.png" height="40" />
   </a>
-  
+
   <a href="https://fb.com/ali.mohsen.shair">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-logo-icon-svg-download-png-1350125.png?f=webp&w=256" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-logo-icon-svg-download-png-1350125.png" height="40" />
   </a>
-  
+
   <a href="https://instagram.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png?f=webp&w=256" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png" height="40" />
   </a>
-  
+
   <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-3030100.png?f=webp&w=256" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-3030100.png" height="40" />
   </a>
-<a href="https://codeforces.com/profile/3lii">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png?f=webp&w=256" height="40" />
-</a>
 
-<a href="https://www.leetcode.com/3li_mo7sn">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-3030025.png?f=webp&w=256" height="40" />
-</a>
+  <a href="https://codeforces.com/profile/3lii">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png" height="40" />
+  </a>
 
-<a href="https://kaggle.com/alimohsenmahmoud">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-logo-icon-svg-download-png-3030009.png?f=webp&w=256" height="40" />
-</a>
+  <a href="https://www.leetcode.com/3li_mo7sn">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-3030025.png" height="40" />
+  </a>
+
+  <a href="https://kaggle.com/alimohsenmahmoud">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-logo-icon-svg-download-png-3030009.png" height="40" />
+  </a>
+
 </p>
 
 </div>
