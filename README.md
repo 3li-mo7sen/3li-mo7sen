@@ -90,8 +90,14 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3li-mo7sen&layout=compact&theme=tokyonight&border_radius=12"/>
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=tokyonight&border_radius=12" />
+
+<!-- Top Languages - via different reliable instance -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3li-mo7sen&layout=donut&theme=tokyonight&border_radius=12" />
+
+<!-- Streak Stats - different service entirely -->
+<img src="https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12" />
 
 </div>
 
