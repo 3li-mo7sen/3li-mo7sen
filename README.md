@@ -25,40 +25,40 @@
 <h3>Connect with me:</h3>
 
 <p>
-  <a href="https://twitter.com/3li_mo7sn" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  <a href="https://twitter.com/3li_mo7sn">
+    <img src="https://cdn.simpleicons.org/twitter" height="30" />
   </a>
 
-  <a href="https://linkedin.com/in/ali-mohsen-357443405" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://linkedin.com/in/ali-mohsen-357443405">
+    <img src="https://cdn.simpleicons.org/linkedin" height="30" />
   </a>
 
-  <a href="https://kaggle.com/alimohsenmahmoud" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  <a href="https://kaggle.com/alimohsenmahmoud">
+    <img src="https://cdn.simpleicons.org/kaggle" height="30" />
   </a>
 
-  <a href="https://fb.com/ali.mohsen.shair" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <a href="https://fb.com/ali.mohsen.shair">
+    <img src="https://cdn.simpleicons.org/facebook" height="30" />
   </a>
 
-  <a href="https://instagram.com/3li_mo7sn" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="https://instagram.com/3li_mo7sn">
+    <img src="https://cdn.simpleicons.org/instagram" height="30" />
   </a>
 
-  <a href="https://www.codechef.com/users/ali_mohsen" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  <a href="https://www.codechef.com/users/ali_mohsen">
+    <img src="https://cdn.simpleicons.org/codechef" height="30" />
   </a>
 
-  <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1">
+    <img src="https://cdn.simpleicons.org/hackerrank" height="30" />
   </a>
 
-  <a href="https://codeforces.com/profile/3lii" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  <a href="https://codeforces.com/profile/3lii">
+    <img src="https://cdn.simpleicons.org/codeforces" height="30" />
   </a>
 
-  <a href="https://www.leetcode.com/3li_mo7sn" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <a href="https://www.leetcode.com/3li_mo7sn">
+    <img src="https://cdn.simpleicons.org/leetcode" height="30" />
   </a>
 </p>
 
