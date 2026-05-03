@@ -20,7 +20,7 @@
 
 <!-- ═════════════════════ SOCIAL BADGES WITH GLOW ═════════════════════════ -->
 
-<div align="center">
+<div >
 
 <h3>Connect with me:</h3>
 
