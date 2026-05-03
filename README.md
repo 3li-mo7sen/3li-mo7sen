@@ -86,9 +86,8 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 ---
 
-## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="28"> GitHub Analytics
+## GitHub Analytics
 
-## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
@@ -104,7 +103,7 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
