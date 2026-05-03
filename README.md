@@ -1,11 +1,13 @@
-<img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhkNTE5NWxzcHJmcDkwZm5ia2l4a21iMDk2dzRldGt2eDRjZm04MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNHplVba2fweBfkLHv/giphy.gif">
+<img width="100%" src="https://i.pinimg.com/736x/37/98/1f/37981f08b3b5b16200fbba1e419b6e13.jpg">
+<br><br>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <!--                            🔥 ALI MOHSEN | PORTFOLIO 🔥                                     -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65"/>
 
 <!-- ════════════════════════════ ANIMATED TYPING HEADER ════════════════════════════ -->
 
