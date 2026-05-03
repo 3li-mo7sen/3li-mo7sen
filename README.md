@@ -57,7 +57,10 @@
   <a href="https://kaggle.com/alimohsenmahmoud">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-logo-icon-svg-download-png-3030009.png" height="40" style="margin: 8px;" />
   </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/201124427672">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-icon-svg-download-png-493160.png?f=webp&w=256" height="40" style="margin: 8px;" />
+  </a>
 </p>
 
 </div>
