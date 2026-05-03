@@ -98,7 +98,7 @@ HTML5 | CSS3 | Bootstrap | JavaScript
 
  Don't Forget Flollow me 
 
-<img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZzNmozc3kxcTY5ZTF5azdwYnNkbDM3eWJrb24yYnFwcTB1ZnM5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" width="100">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZzNmozc3kxcTY5ZTF5azdwYnNkbDM3eWJrb24yYnFwcTB1ZnM5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100">
 
 </div>
 
