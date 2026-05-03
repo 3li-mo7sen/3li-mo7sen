@@ -27,7 +27,7 @@
 <p style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   
   <a href="https://x.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/x-icon-svg-download-png-7941270.png?f=webp&w=256" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-x-logo-icon-svg-download-png-9823103.png" height="40" />
   </a>
 
   <a href="https://linkedin.com/in/ali-mohsen-357443405">
