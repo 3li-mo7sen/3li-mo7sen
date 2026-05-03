@@ -45,7 +45,11 @@ role: Software Engineer | .NET Developer
 current_focus: Backend Development & Competitive Programming & Cloud Computing
 education: Luxor University (2023 - 2027)
 ```
-
+<img 
+  alt="Coding" 
+  width="200" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpuajI1YWs2YmF0eWh4ZGs4ODlkMG5za21qZndiNnRoODExdjRrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif"
+  style="float: left; margin-right: 10px;">
 <br>
 <br clear="both">
 
