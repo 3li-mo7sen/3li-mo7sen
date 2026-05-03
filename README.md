@@ -88,17 +88,17 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 ## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="28"> GitHub Analytics
 
+## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=tokyonight&border_radius=12" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Top Languages - via different reliable instance -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3li-mo7sen&layout=donut&theme=tokyonight&border_radius=12" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Streak Stats - different service entirely -->
-<img src="https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12" />
+<!-- Stats via alternate reliable instance -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=tokyonight&border_radius=12&count_private=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=3li-mo7sen&layout=compact&theme=tokyonight&border_radius=12"/>
 
 </div>
 
