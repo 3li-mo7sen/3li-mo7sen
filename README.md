@@ -4,7 +4,7 @@
 
 <br/>
 
-p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1200&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub;Software+Engineer+%7C+.NET+Developer" 
@@ -113,51 +113,49 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 <div align="center">
 
-### ⚡ Languages & Frameworks
+###  Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet&theme=dark"/>
 
-### 🗄️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgres,redis&theme=dark"/>
+###  Backend & Databases
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
 
-### 🛠️ Tools & DevOps
+###  Tools & DevOps
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark"/>
 
-### 🌐 Frontend Basics
+###  Frontend Basics
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark"/>
 
 </div>
 
 ---
 
-## 📊 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
 
 | Platform | Profile | Status |
 |:---:|:---:|:---:|
-| 🔵 Codeforces | [@3lii](https://codeforces.com/profile/3lii) | Active |
-| 🟡 LeetCode | [@3li_mo7sn](https://leetcode.com/3li_mo7sn) | Active |
-| 🟢 HackerRank | [@3li_mo7sen_m7mo1](https://hackerrank.com/3li_mo7sen_m7mo1) | Active |
+|  Codeforces | [@3lii](https://codeforces.com/profile/3lii) | Active |
+|  LeetCode | [@3li_mo7sn](https://leetcode.com/3li_mo7sn) | Active |
+|  HackerRank | [@3li_mo7sen_m7mo1](https://hackerrank.com/3li_mo7sen_m7mo1) | Active |
 
 </div>
 
 ---
 
-## 🤝 Open to Collaborate On
+##  Open to Collaborate On
 
-- 🔧 **Backend APIs** using ASP.NET Core / C#
-- 🧩 **Open Source** .NET projects
-- 🏆 **Competitive Programming** practice & contests
-- ☁️ **Cloud-native** scalable systems
+-  **Backend APIs** using ASP.NET Core / C#
+-  **Open Source** .NET projects
+-  **Competitive Programming** practice & contests
+-  **Cloud-native** scalable systems
 
 ---
 
 <div align="center">
 
-### 💬 Profile Views
+###  Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3li-mo7sen&label=Profile%20Views&color=00e7ff&style=for-the-badge)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=38&fontColor=fff&animation=fadeIn&desc=Open%20for%20Backend%20Projects%20%7C%20Open%20Source%20Contributions&descSize=17&descAlignY=75"/>
