@@ -20,11 +20,11 @@
 
 <!-- ═════════════════════ SOCIAL BADGES WITH GLOW ═════════════════════════ -->
 
-<div allign="center" >
+<div align="center" >
 
 <h3>Connect with me:</h3>
 
-<p style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<p style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   
   <a href="https://x.com/3li_mo7sn">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-x-logo-icon-svg-download-png-9823103.png" height="40" style="margin: 0 50px;";/>
