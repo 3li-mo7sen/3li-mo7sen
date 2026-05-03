@@ -1,135 +1,130 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                🔥 ALI MOHSEN | PORTFOLIO 🔥                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65"/>
-
-<!-- ════════════════════════════ ANIMATED TYPING HEADER ════════════════════════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1200&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub;Software+Engineer+%7C+.NET+Developer" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
-
-
-<!-- ═════════════════════ SOCIAL ICONS (COLORFUL & SPACED) ═════════════════════════ -->
-
 <div align="center">
 
-###  Connect & Collaborate
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=75&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20%7C%20ASP.NET%20Core%20Developer&descSize=22&descAlignY=68"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ali-mohsen-357443405">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-icon-svg-download-png-189774.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-x-logo-icon-svg-download-png-9823103.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/201124427672">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-icon-svg-download-png-493160.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/ali.mohsen.shair">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-logo-icon-svg-download-png-1350125.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/3lii">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-3030025.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-3030100.png" width="45" style="margin: 0 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://kaggle.com/alimohsenmahmoud">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-logo-icon-svg-download-png-3030009.png" width="45" style="margin: 0 10px;"/>
-  </a>
-</p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1400&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Building+scalable+.NET+systems;🏆+Competitive+Programmer;☁️+Cloud+%26+Backend+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- ════════════════════════════ ABOUT ME SECTION ════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **About Me**
-
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🎓 Studying at **Luxor University** (Class of 2027).
-- 💻 Specialized in **Software Engineering** & **ASP.NET Core**.
-- 🏆 Passionate about **Competitive Programming** and solving complex algorithms.
-- ☁️ Exploring **Cloud Computing** and scalable system architectures.
-- 📍 Based in **Giza, Egypt**.
-
-> *"Turning coffee into clean, scalable, and efficient code."* ☕
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ════════════════════════════ STATS SECTION ════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="30"> **GitHub Analytics**
+## 🌐 Connect & Collaborate
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3li-mo7sen&layout=compact&theme=dracula" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohsen-357443405)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/3li_mo7sn)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201124427672)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/3li_mo7sn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ali.mohsen.shair)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/3lii)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/3li_mo7sn)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/3li_mo7sen_m7mo1)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alimohsenmahmoud)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- ════════════════════════════ SKILLS SECTION ════════════════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Tech Arsenal**
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```yaml
+name:       Ali Mohsen
+location:   Luxor → Giza, Egypt 🇪🇬
+education:  Luxor University  (Class of 2027)
+focus:
+  - Software Engineering
+  - ASP.NET Core & Backend Systems
+  - Competitive Programming
+  - Cloud Computing & Scalable Architecture
+currently:
+  - Learning advanced system design
+  - Solving algorithmic challenges daily
+  - Building RESTful APIs with .NET
+quote: "Turning coffee into clean, scalable, efficient code." ☕
+```
+
+<br clear="both"/>
+
+---
+
+## <img src="https://media.giphy.com/media/unQBb7pQC7511x2nK6/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-### ⚡ Programming & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet&theme=dark&perline=4" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3li-mo7sen&layout=compact&theme=tokyonight&border_radius=12"/>
 
-### 🛠️ Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,visualstudio,vscode,postman,git,github,linux&theme=dark&perline=8" />
-</p>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Arsenal
+
+<div align="center">
+
+### ⚡ Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet&theme=dark"/>
+
+### 🗄️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgres,redis&theme=dark"/>
+
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark"/>
 
 ### 🌐 Frontend Basics
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- ════════════════════════════ FOOTER ════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=40&fontColor=fff&animation=fadeIn&desc=Available%20for%20Backend%20Projects%20|%20Open%20Source&descSize=18&descAlignY=75"/>
+## 📊 Competitive Programming
 
 <div align="center">
 
-**Thanks for visiting my profile!** 
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicG8zM3h3bm13YmxxeGpxZXAzeXh4ZXp4eXh4ZXp4eXh4ZXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M90mJvC9vMvM9vC9vM/giphy.gif" width="100">
+| Platform | Profile | Status |
+|:---:|:---:|:---:|
+| 🔵 Codeforces | [@3lii](https://codeforces.com/profile/3lii) | Active |
+| 🟡 LeetCode | [@3li_mo7sn](https://leetcode.com/3li_mo7sn) | Active |
+| 🟢 HackerRank | [@3li_mo7sen_m7mo1](https://hackerrank.com/3li_mo7sen_m7mo1) | Active |
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                   Made with ❤️ by Ali Mohsen                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+---
+
+## 🤝 Open to Collaborate On
+
+- 🔧 **Backend APIs** using ASP.NET Core / C#
+- 🧩 **Open Source** .NET projects
+- 🏆 **Competitive Programming** practice & contests
+- ☁️ **Cloud-native** scalable systems
+
+---
+
+<div align="center">
+
+### 💬 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=3li-mo7sen&label=Profile%20Views&color=00e7ff&style=for-the-badge)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=38&fontColor=fff&animation=fadeIn&desc=Open%20for%20Backend%20Projects%20%7C%20Open%20Source%20Contributions&descSize=17&descAlignY=75"/>
