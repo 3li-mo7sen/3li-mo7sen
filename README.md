@@ -116,11 +116,11 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 ###  Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet&theme=dark"/>
 
-###  Backend & Databases
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"/>
+###  Databases
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="70" hight="70"/>
 
 ###  Tools & DevOps
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark" width="45" hight="45" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark"  />
 
 ###  Frontend Basics
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark"/>
