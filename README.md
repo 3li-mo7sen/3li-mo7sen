@@ -90,24 +90,15 @@ HTML5 | CSS3 | Bootstrap | JavaScript
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ════════════════════════════ COMPETITIVE PROGRAMMING ════════════════════════════ -->
-
-## Competitive Programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
-
-<div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=3li_mo7sn&theme=github_dark&show_icons=true" />
-</div>
-
-
 <!-- ════════════════════════════ FOOTER ════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Let's%20Connect!&fontSize=45&fontColor=fff&animation=fadeIn&desc=Open%20to%20collaborations%20and%20opportunities&descSize=18&descAlignY=75"/>
 
 <div align="center">
 
-**⭐ Don't Forget Flollow me ⭐**
+ Don't Forget Flollow me 
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
+<img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZzNmozc3kxcTY5ZTF5azdwYnNkbDM3eWJrb24yYnFwcTB1ZnM5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" width="100">
 
 </div>
 
