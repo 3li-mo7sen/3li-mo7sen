@@ -95,9 +95,14 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Stats via alternate reliable instance -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=3li-mo7sen&show_icons=true&theme=tokyonight&border_radius=12&count_private=true"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=3li-mo7sen&layout=compact&theme=tokyonight&border_radius=12"/>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3li-mo7sen&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
+
+</div>
 
 </div>
 
