@@ -1,3 +1,4 @@
+<img width="100%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhkNTE5NWxzcHJmcDkwZm5ia2l4a21iMDk2dzRldGt2eDRjZm04MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNHplVba2fweBfkLHv/giphy.gif">
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <!--                            🔥 ALI MOHSEN | PORTFOLIO 🔥                                     -->
