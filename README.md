@@ -117,7 +117,7 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet&theme=dark"/>
 
 ###  Databases
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="70" hight="70"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80" hight="80"/>
 
 ###  Tools & DevOps
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,git,github,linux,docker&theme=dark"  />
