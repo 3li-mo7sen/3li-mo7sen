@@ -1,8 +1,5 @@
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                            🔥 ALI MOHSEN | PORTFOLIO 🔥                                     -->
-
+<!--                                🔥 ALI MOHSEN | PORTFOLIO 🔥                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&customColorList=0,2,2,5,30&text=Ali%20Mohsen&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00e7ff&strokeWidth=2&desc=Software%20Engineer%20|%20ASP.NET%20Developer&descSize=20&descAlignY=65"/>
@@ -12,59 +9,32 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1200&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub;Software+Engineer+%7C+.NET+Developer" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1200&pause=1200&color=00E7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub;Software+Engineer+%7C+.NET+Developer;Competitive+Programmer;Cloud+Computing+Enthusiast" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
-<!-- ═════════════════════ SOCIAL BADGES WITH GLOW ═════════════════════════ -->
+<!-- ═════════════════════ SOCIAL BADGES (MODERN & CLEAN) ═════════════════════════ -->
 
 <div align="center">
 
-<h3>Connect with me:</h3>
+### 🌐 Let's Connect
 
-<p>
-  
-  <a href="https://x.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-x-logo-icon-svg-download-png-9823103.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ali-mohsen-357443405">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-icon-svg-download-png-189774.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/ali.mohsen.shair">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-logo-icon-svg-download-png-1350125.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-svg-download-png-1583142.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/3li_mo7sen_m7mo1">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-svg-download-png-3030100.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/3lii">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-3029920.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/3li_mo7sn">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-3030025.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-  <a href="https://kaggle.com/alimohsenmahmoud">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-logo-icon-svg-download-png-3030009.png" height="40" style="margin: 8px;" />
-  </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/201124427672">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-icon-svg-download-png-493160.png?f=webp&w=256" height="40" style="margin: 8px;" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/ali-mohsen-357443405"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/3li_mo7sn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://fb.com/ali.mohsen.shair"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/3li_mo7sn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://wa.me/201124427672"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br>
+
+<a href="https://www.leetcode.com/3li_mo7sn"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/3lii"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/3li_mo7sen_m7mo1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://kaggle.com/alimohsenmahmoud"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 
 </div>
-<!-- ════════════════════════════ ANIMATED WAVE DIVIDER ════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -72,78 +42,15 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
+# Identity
 name: Ali Mohsen
 located_in: Giza, Egypt
 role: Software Engineer | .NET Developer
-current_focus: Backend Development & Competitive Programming & Cloud Computing
+
+# Passion
+focus: Backend Development & Competitive Programming
+learning: Cloud Computing & Microservices Architecture
 education: Luxor University (2023 - 2027)
-```
-<img 
-  alt="Coding" 
-  width="200" 
-src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnpuajI1YWs2YmF0eWh4ZGs4ODlkMG5za21qZndiNnRoODExdjRrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DX1cytoIQvnmgqBlQ3/giphy.gif"
-  style="float: left; margin-right: 10px;">
-<br>
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ════════════════════════════ SKILLS SECTION ════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Tech Arsenal**
-
-<div align="center">
-
-### 🎯 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python&theme=dark&perline=8" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark&perline=8" />
-</p>
-
-Technologies:
-ASP.NET Core | Web API | MVC | .NET Framework | OOP
-
-### 🗄 Databases & ORM
-
-SQL Server | Entity Framework | EF Core | LINQ | ADO.NET
-
-### 🌐 Frontend Basics
-
-HTML5 | CSS3 | Bootstrap | JavaScript
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ════════════════════════════ FOOTER ════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Let's%20Connect!&fontSize=45&fontColor=fff&animation=fadeIn&desc=Open%20to%20collaborations%20and%20opportunities&descSize=18&descAlignY=75"/>
-
-<div align="center">
-
- Don't Forget Flollow me 
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZzNmozc3kxcTY5ZTF5azdwYnNkbDM3eWJrb24yYnFwcTB1ZnM5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100">
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--                                     Made by Ali Mohsen                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
