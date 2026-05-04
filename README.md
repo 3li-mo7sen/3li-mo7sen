@@ -94,12 +94,12 @@ currently:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&margin-w=6&row=1)
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3li-mo7sen&theme=tokyonight"/>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3li-mo7sen&theme=tokyonight&utcOffset=2"/>
+<img width="22%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3li-mo7sen&theme=tokyonight"/>
+<img width="22%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3li-mo7sen&theme=tokyonight&utcOffset=2"/>
 
 <!-- Two language cards - same size side by side -->
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
+<img width="22%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
+<img width="22%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
 
 </div>
 
