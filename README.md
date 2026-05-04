@@ -80,7 +80,6 @@ currently:
   - Learning advanced system design
   - Solving algorithmic challenges daily
   - Building RESTful APIs with .NET
-quote: "Turning coffee into clean, scalable, efficient code." ☕
 ```
 
 <br clear="both"/>
@@ -91,16 +90,16 @@ quote: "Turning coffee into clean, scalable, efficient code." ☕
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://streak-stats.demolab.com?user=3li-mo7sen&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&margin-w=6&row=1)]
+![trophy](https://github-profile-trophy.vercel.app/?username=3li-mo7sen&theme=tokyonight&no-frame=true&margin-w=6&row=1)
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3li-mo7sen&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3li-mo7sen&theme=tokyonight&utcOffset=2"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3li-mo7sen&theme=tokyonight"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3li-mo7sen&theme=tokyonight&utcOffset=2"/>
 
 <!-- Two language cards - same size side by side -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3li-mo7sen&theme=tokyonight"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3li-mo7sen&theme=tokyonight"/>
 
 </div>
 
